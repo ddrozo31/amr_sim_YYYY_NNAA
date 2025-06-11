@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(f112th_sim_YYYY_NNAA)
+project(amr_sim_YYYY_NNAA)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
